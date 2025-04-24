@@ -6,7 +6,7 @@ Ini adalah website untuk pengumpulan tugas-tugas saya
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Tugas Sekolah</title>
+    <title>Tugas TIK</title>
 </head>
 <body>
     <header>
