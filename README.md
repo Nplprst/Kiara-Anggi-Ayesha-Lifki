@@ -17,7 +17,6 @@ Selamat Datang di Website pribadi
             <h2>Daftar Tugas</h2>
             <ul>
                 https://drive.google.com/folderview?id=1MyFohAAw0GZfBdEZuilsXQ3NHTer-k0r
-    
         <p>&copy; 2025 Tugas Sekolah</p>
     </footer>
 </body>
