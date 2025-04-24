@@ -1,5 +1,5 @@
 # Kiara-Anggi-Ayesha-Lifki
-Ini adalah website untuk pengumpulan tugas-tugas saya
+Selamat Datang di Website pribadi
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -10,7 +10,7 @@ Ini adalah website untuk pengumpulan tugas-tugas saya
 </head>
 <body>
     <header>
-        <h1>Selamat Datang di Website Tugas Sekolah</h1>
+        <h1>Maaf kurang bagus</h1>
     </header>
     <main>
         <section>
